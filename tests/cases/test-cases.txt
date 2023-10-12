@@ -1,0 +1,9 @@
+01|Library/Caches/doc-root/file.txt|Library/Caches/doc-root|Library/Caches/doc-root
+02|Library/Caches/doc-root/folder/file.txt|Library/Caches/doc-root|Library/Caches/doc-root
+03|Library/Caches/doc-root/folder/folder/file.txt|Library/Caches/doc-root|Library/Caches/doc-root/folder
+04|Library/Caches/doc-root/folder/|Library/Caches/doc-root|
+05|Library/Caches/other-doc-root/file.txt|Library/Caches/doc-root|
+06|Library/Caches/doc-root|Library/Caches/doc-root|
+07|Library/Caches/doc-root/../file.txt|Library/Caches/doc-root|
+08|Library/Caches/doc-root/../folder/../../file.txt|Library/Caches/doc-root|
+09|Library/Caches/doc-root/folder/folder\ 2/file.txt|Library/Caches/doc-root|Library/Caches/doc-root/folder
